@@ -1,3 +1,3 @@
 {% assign wpm = site.words_per_minute | append: '.0' %}
 {% assign readtime = content | strip_html | number_of_words | divided_by:wpm | round %}
-Время чтения ~{% if readtime <= 1 %}1 минута{% else %}{{ readtime }} минут{% endif %}
+Время чтения ~{% if readtime <= 1 %}1 минута{% elsif readtime > 1 and readtime < 5%}{{ readtime }} минутs{% else %}{{ readtime }} минут{% endif %}
