@@ -26,6 +26,6 @@ comments: false
 Так что если хотите посмотреть интересную классическую судебную драму — «Свидетель обвинения» станет отличным выбором.
 
 <figure>
-	<a href="https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-1.jpg"></a>
+		<a href="https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-1.jpg"><img src="https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-1.jpg"></a>
 	<figcaption><a href="https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-1.jpg" title="Постер фильма">Постер фильма</a>.</figcaption>
 </figure>
