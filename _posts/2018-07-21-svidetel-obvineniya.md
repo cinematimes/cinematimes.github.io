@@ -23,4 +23,9 @@ comments: false
 
 Фильм был принят очень положительно, и автор оригинальной пьесы, Агата Кристи, осталась очень довольна. Ну а сейчас фильм находится в топ250 IMDb на 67 месте.
 
-Так что если хотите посмотреть интересную классическую судебную драму — «Свидетель обвинения» станет отличным выбором
+Так что если хотите посмотреть интересную классическую судебную драму — «Свидетель обвинения» станет отличным выбором.
+
+<figure>
+	<a href="https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-1.jpg"></a>
+	<figcaption><a href="https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-1.jpg" title="Постер фильма">Постер фильма</a>.</figcaption>
+</figure>
