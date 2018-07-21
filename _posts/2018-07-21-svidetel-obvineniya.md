@@ -4,7 +4,7 @@ title: "Свидетель обвинения"
 date: 2018-07-21
 excerpt: "Отзыв на классическую судебную детективную драму"
 tags: [классика, детектив, США]
-feature: https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-1.jpg
+feature: https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-2.jpg
 comments: false
 ---
 Давненько не было на канале обзоров классического кино.
