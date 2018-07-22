@@ -1,7 +1,7 @@
 ---
 layout: page
 title: О канале
-tags: [about, Jekyll]
+tags: [Информация]
 date: 2016-03-21
 comments: false
 ---
