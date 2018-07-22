@@ -6,7 +6,11 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://t.me/Anonhownow"><b>Well, Cinéma Times</b></a> это канал о кино.</center>
+<center>
+<a href="https://t.me/Anonhownow"><b>Well, Cinéma Times</b></a> – это канал о кино в надёжном, удобном и безопасном мессенджере Telegram, разработанном Павлом Дуровом.
+[**Что делать, если Telegram заблокирован?**](https://cinematimes.cf/about/censorship/)
+</center>
+
 
 ## Что есть на канале
 * Рецензии на блокбастеры
