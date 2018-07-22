@@ -2,7 +2,7 @@
 layout: post
 title: "Свидетель обвинения"
 date: 2018-07-21
-excerpt: "Отзыв на классическую судебную детективную драму"
+excerpt: "Классическая чёрно-белая судебная детективная драма. Режиссёр — Билли Уайлдер, снявший *«В джазе только девушки»* и много других известных фильмов."
 tags: [классика, детектив, США]
 feature: https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-2.jpg
 comments: false
