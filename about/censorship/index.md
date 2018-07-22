@@ -7,6 +7,7 @@ comments: false
 ---
     
 <a href="https://t.me/Anonhownow"><b>Well, Cinéma Times</b></a> – это канал о кино в надёжном, удобном и безопасном мессенджере Telegram, разработанном Павлом Дуровом. К сожалению, власти некоторых стран, например, Ирана и России, имеют весьма специфическое отношение к конституционным свободам и блокируют доступ к этому мессенджеру.
+Помимо Telegram, заодно (случайно) была заблокирована масса других ресурсов: от сайтов СМИ до игровых серверов и систем «Умный дом».
 
 ## Что делать, если Telegram не работает
 #### VPN
@@ -20,9 +21,11 @@ comments: false
    * Port: 443
    * Secret: 4fa2f00b585e2528da4ce33feaabb1c0
    
-####Другие варианты
-В интернете много подробных инструкций по обходу интернет-цензуры и блокировки Telegram. Вот некоторые из них:
+#### Другие варианты
+В интернете много подробных инструкций по обходу блокировки Telegram. Вот некоторые из них:
 * [Инструкция от TJournal](https://tjournal.ru/45750-unblock-tlgrm)
+* [Инструкция от Lifehacker](https://lifehacker.ru/kak-obojti-blokirovku-telegram-2/)
+* [Инструкция от Meduza](https://meduza.io/feature/2018/04/12/telegram-sovsem-skoro-zablokiruyut-chto-delat)
 * [Инструкция от Lifehacker](https://lifehacker.ru/kak-obojti-blokirovku-telegram-2/)
 
 
