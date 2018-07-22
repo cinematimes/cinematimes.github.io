@@ -80,6 +80,9 @@
     .btn {
         @include font-rem(14);
     }
+    .tagi {
+        @include font-rem(12);
+    }
 }
 
 // hr break
