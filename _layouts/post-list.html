@@ -31,11 +31,11 @@ layout: compress
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Читать дальше</a>
                             <span class="entry-tags">
                                 {% for tag in page.tags %}
-                                    <a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}" class="tag"><span class="term">{{ tag }}</span></a>{% unless forloop.last %}{% endunless %}
+                                    <li><a href="{{ site.url }}/tags#{{ tag }}">{{ tag }}</a></li>
                                 {% endfor %}
                             </span>
                         </li>
-                        Пост
+                        Постс
                         
                     </ul>
                         {% endif %}
