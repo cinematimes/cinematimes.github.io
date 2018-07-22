@@ -20,7 +20,9 @@ comments: false
    * IP: 51.15.99.63
    * Port: 443
    * Secret: 4fa2f00b585e2528da4ce33feaabb1c0
-   
+   2. Прокси-сервер Telegram-Сми Mash.
+<a href="tg://proxy?server=mash.drproxy.pro&port=443&secret=a5a7b5711e648c7bd534e4e87de2241b">Прямая ссылка</a>
+
 #### Другие варианты
 В интернете много подробных инструкций по обходу блокировки Telegram. Вот некоторые из них:
 * [Инструкция от TJournal](https://tjournal.ru/45750-unblock-tlgrm)
