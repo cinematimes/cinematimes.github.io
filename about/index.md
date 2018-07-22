@@ -18,5 +18,5 @@ comments: false
 ## Авторские права
 Все тексты, размещённые на канале (и на этом сайте) принадлежат их авторам. При копировании ссылка на материал обязательна.
       
-[Перейти на канал](https://t.me/Anonhownow){: .btn}
-<div markdown="0"><a href="https://t.me/Anonhownow" class="btn btn-info">Перейти на канал</a></div>
+<center>[Перейти на канал](https://t.me/Anonhownow){: .btn}</center>
+<center><div markdown="0"><a href="https://t.me/Anonhownow" class="btn btn-info">Перейти на канал</a></div></center>
