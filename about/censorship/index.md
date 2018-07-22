@@ -26,7 +26,7 @@ comments: false
 * [Инструкция от TJournal](https://tjournal.ru/45750-unblock-tlgrm)
 * [Инструкция от Lifehacker](https://lifehacker.ru/kak-obojti-blokirovku-telegram-2/)
 * [Инструкция от Meduza](https://meduza.io/feature/2018/04/12/telegram-sovsem-skoro-zablokiruyut-chto-delat)
-* [Инструкция от Lifehacker](https://lifehacker.ru/kak-obojti-blokirovku-telegram-2/)
+* [Инструкция от Wylsacom](https://wylsa.com/kak-obojti-blokirovku-telegram/)
 
 
 ## Авторские права
