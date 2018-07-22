@@ -1,6 +1,6 @@
 ---
 layout: page
-title: О канале
+title: Обход интернет-цензуры
 tags: [Информация]
 date: 2018-05-05
 comments: false
