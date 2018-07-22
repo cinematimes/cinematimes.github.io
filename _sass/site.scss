@@ -185,6 +185,22 @@ header .entry-meta {
     float: left;
     text-align: left;
 }
+//Тэги из соседнего проекта
+.tags {
+  margin-top: 20px;
+  > li {
+    display: inline-block;
+    background: darken($white, 5%);
+    padding: 7px 10px;
+    color: lighten($black, 28%);
+    font-size: 11px;
+    text-transform: uppercase;
+    > a {
+      color: $white;
+    }
+  }
+}
+//
 .social-share {
 	display: block;
     margin-top: 1rem;
