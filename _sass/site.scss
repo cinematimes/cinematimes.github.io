@@ -188,11 +188,20 @@ header .entry-meta {
         float: none;
     }
 }
+//Тэги в посте
 .entry-tags-inpost {
 	display: block;
     margin-top: 1rem;
 	//width: 70%;
     float: right;
+    text-align: left;
+}
+//Кнопки в постах
+.nav-button-inpost {
+	display: block;
+    margin-top: 1rem;
+	//width: 70%;
+    float: left;
     text-align: left;
 }
 //Тэги из соседнего проекта
