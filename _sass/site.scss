@@ -211,7 +211,8 @@ header .entry-meta {
     margin-top: 0.4rem;
     color: #060466;
     @media #{$small} {
-            float: right;
+            float: none;
+            text-align: left;
     }
 }
 //
