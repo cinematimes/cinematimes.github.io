@@ -210,6 +210,9 @@ header .entry-meta {
     text-align: right;
     margin-top: 0.4rem;
     color: #060466;
+    @media #{$small} {
+            float: right;
+    }
 }
 //
 .tagi {
