@@ -63,6 +63,9 @@ h3.title a {
 			font-weight: lighter;
 			@include font-rem(16);
 		}
+        @media #{$small} {
+		padding: 2px 2px;
+	    }
 	}
 }
 
