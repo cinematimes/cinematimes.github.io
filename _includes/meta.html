@@ -20,7 +20,7 @@
         </span>
     </a>
     {% endif %}
-    {% if page.previous != null %}
+    {% if page.next != null %}
     <a href="{{ site.url }}{{ page.next.url }}" title="Следующий пост" class="tag">
         <span class="term">
             {% if page.previous == null %} Конец {% else %} Следующий пост {% endif %}
