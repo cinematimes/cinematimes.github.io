@@ -12,16 +12,20 @@
             <span class="term"><i class="fa fa-google-plus-square"></i> +1</span>
     </a>
 </span>
-<span class="entry-tags-inpost">
+<span class="nav-button-inpost">
     {% if page.previous != null %}
-    <a href="{{ site.url }}{{ page.previous.url }}" title="Поделиться в Facebook" class="tag">
+    <a href="{{ site.url }}{{ page.previous.url }}" title="Предыдущий пост" class="tag">
         <span class="term">
-            {% if page.previous == null %} Конец {% else %} Назад {% endif %}
+            {% if page.previous == null %} Конец {% else %} Предыдущий пост {% endif %}
         </span>
     </a>
     {% endif %}
-    <a href="{{ site.url }}{{ page.next.url }}" title="Поделиться в Facebook" class="tag">
-        <span class="term">Вперёд</span>
+    {% if page.previous != null %}
+    <a href="{{ site.url }}{{ page.next.url }}" title="Следующий пост" class="tag">
+        <span class="term">
+            {% if page.previous == null %} Конец {% else %} Следующий пост {% endif %}
+        </span>
     </a>
+    {% endif %}
 </span>
 <div style="clear:both"></div>
