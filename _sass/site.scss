@@ -184,6 +184,9 @@ header .entry-meta {
 	//width: 70%;
     float: right;
     text-align: left;
+    @media #{$small} {
+        float: none;
+    }
 }
 //Тэги из соседнего проекта
 .tags {
@@ -239,6 +242,9 @@ header .entry-meta {
 			background-color: darken($white,15);
 			box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
 		}
+        @media #{$small} {
+            margin: 2px 5px 2px 0px;
+        }
 }
 //
 .social-share {
