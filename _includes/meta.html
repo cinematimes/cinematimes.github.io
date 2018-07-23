@@ -23,7 +23,7 @@
     {% if page.next != null %}
     <a href="{{ site.url }}{{ page.next.url }}" title="Следующий пост" class="tag">
         <span class="term">
-            {% if page.previous == null %} Конец {% else %} Следующий пост {% endif %}
+            {% if page.next == null %} Конец {% else %} Следующий пост {% endif %}
         </span>
     </a>
     {% endif %}
