@@ -188,6 +188,13 @@ header .entry-meta {
         float: none;
     }
 }
+.entry-tags-inpost {
+	display: block;
+    margin-top: 1rem;
+	//width: 70%;
+    float: right;
+    text-align: left;
+}
 //Тэги из соседнего проекта
 .tags {
   margin-top: 10px;
