@@ -14,7 +14,9 @@
 </span>
 <span class="entry-tags-inpost">
     <a href="{{ site.url }}{{ page.previous.url }}" title="Поделиться в Facebook" class="tag">
-        <span class="term">Назад</span>
+        <span class="term">
+            {% if page.previous == null %} Конец {% else %} Назад {% endif %}
+        </span>
     </a>
     <a href="{{ site.url }}{{ page.next.url }}" title="Поделиться в Facebook" class="tag">
         <span class="term">Вперёд</span>
