@@ -13,11 +13,13 @@
     </a>
 </span>
 <span class="entry-tags-inpost">
+    {% if page.previous != null %}
     <a href="{{ site.url }}{{ page.previous.url }}" title="Поделиться в Facebook" class="tag">
         <span class="term">
             {% if page.previous == null %} Конец {% else %} Назад {% endif %}
         </span>
     </a>
+    {% endif %}
     <a href="{{ site.url }}{{ page.next.url }}" title="Поделиться в Facebook" class="tag">
         <span class="term">Вперёд</span>
     </a>
