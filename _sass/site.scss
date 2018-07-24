@@ -240,13 +240,13 @@ header .entry-meta {
 	color: lighten($color_tuatara,60);
     text-align: center;
     padding-bottom: 15px;
-    a {
-        color: lighten($color_tuatara,60);
-    }
-    a:hover {
-        animation-name: LinksFooterAnimation;
-        animation-duration: 1s;
-    }
+}
+.footer-a {
+    color: lighten($color_tuatara,60);
+}
+.footer-a:hover {
+    animation-name: LinksFooterAnimation;
+    animation-duration: 1s;
 }
 @keyframes LinksFooterAnimation
 {
