@@ -243,6 +243,19 @@ header .entry-meta {
     a {
         color: lighten($color_tuatara,60);
     }
+    a:hover {
+        animation-name: LinksFooterAnimation;
+        animation-duration: 1s;
+    }
+}
+@keyframes LinksFooterAnimation
+{
+    from {
+        color: lighten($color_tuatara,60);
+    }
+    to {
+        color: #d6d6d6;
+    }
 }
 //
 .tagi {
