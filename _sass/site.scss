@@ -251,10 +251,13 @@ header .entry-meta {
 @keyframes LinksFooterAnimation
 {
     from {
-        color: lighten($color_tuatara,60);
+        color: white;
+    }
+    50%{
+        color: #c4c4c4;
     }
     to {
-        color: #d6d6d6;
+        color: white;
     }
 }
 //
