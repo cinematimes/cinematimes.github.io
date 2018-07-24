@@ -36,5 +36,4 @@ comments: false
 * [Инструкция от Meduza](https://meduza.io/feature/2018/04/12/telegram-sovsem-skoro-zablokiruyut-chto-delat)
 * [Инструкция от Wylsacom](https://wylsa.com/kak-obojti-blokirovku-telegram/)
       
-[Перейти на канал](https://t.me/Anonhownow){: .btn}
 <div markdown="0"><a href="https://t.me/Anonhownow" class="btn btn-info">Перейти на канал</a></div>
