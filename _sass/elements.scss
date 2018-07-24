@@ -65,19 +65,24 @@
       &:visited {
         color: $white;
       }
-      &.btn-blue-full {
-      background-color: $info;
-      color: $white;
-      border-color: $info;
-      text-align: center;
-      min-width: 100%; //растяжение
-      &:visited {
-        color: $white;
-      }
       &:hover {
         background-color: $white;
         color: $info;
       }
+    }
+    &.btn-blue-full {
+        background-color: $info;
+        color: $white;
+        border-color: $info;
+        text-align: center;
+        min-width: 100%; //растяжение
+        &:visited {
+            color: $white;
+        }
+        &:hover {
+            background-color: $white;
+            color: $info;
+        }
     }
 }
 .title .btn {
