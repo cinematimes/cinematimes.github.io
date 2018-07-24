@@ -34,5 +34,7 @@ Jekyll
 
 #### Переменные
 `{% assign var = 'text, text, text' %}` - создание текстовой переменной
+
 `{% assign var = false %}` - создание булевой переменной
+
 `{% capture var %}{{ item.title | handleize }}-{{ i }}-color{% endcapture %}` - продвинутое присвоение значения
