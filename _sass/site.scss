@@ -240,6 +240,10 @@ header .entry-meta {
 	color: lighten($color_tuatara,60);
     text-align: center;
     padding-bottom: 15px;
+    &.copyright
+    {
+        font-size: .55rem;
+    }
 }
 .footer-a {
     color: lighten($color_tuatara,60);
