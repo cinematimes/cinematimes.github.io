@@ -243,6 +243,21 @@ header .entry-meta {
 }
 .footer-a {
     color: lighten($color_tuatara,60);
+    transition: none;
+    &:link {
+        color: lighten($color_tuatara,60);
+    }
+    &:visited {
+        color: lighten($color_tuatara,60);
+    }
+    &:hover {
+        animation-name: LinksFooterAnimation;
+        animation-duration: 1s;
+    }
+    &:active {
+        transition: color .3s;
+        color: lighten($color_tuatara,60);
+    }
 }
 .footer-a:hover {
     animation-name: LinksFooterAnimation;
