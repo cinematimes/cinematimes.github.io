@@ -33,8 +33,14 @@ Jekyll
 `forloop.index` - индекс текущей интерации (отсчёт от единицы)
 
 #### Переменные
-`{% assign var = 'text, text, text' %}` - создание текстовой переменной
+    {% assign var = 'text, text, text' %} - создание текстовой переменной
+    {% assign var = false %} - создание булевой переменной
+    {% assign array = "image side hide play show scene" | split: " " %} - создание массива
+    {% capture var %}{{ item.title | handleize }}-{{ i }}-color{% endcapture %} - продвинутое присвоение значения
 
-`{% assign var = false %}` - создание булевой переменной
+#### Фильтры
+Фильтры используются дял обработки переменных примерно так: `Hello {{ переменная | фильтр }}`
 
-`{% capture var %}{{ item.title | handleize }}-{{ i }}-color{% endcapture %}` - продвинутое присвоение значения
+    remove: "world" - удаление части строки
+    replace: 'оригинальная часть', 'часть на замену' - замена подстроки
+    strip_html - удаление html-тегов
