@@ -244,6 +244,7 @@ header .entry-meta {
 .footer-a {
     color: lighten($color_tuatara,60);
     transition: none;
+    text-decoration: none;
     &:link {
         color: lighten($color_tuatara,60);
     }
@@ -253,6 +254,7 @@ header .entry-meta {
     &:hover {
         animation-name: LinksFooterAnimation;
         animation-duration: 1s;
+        text-decoration: underline;
     }
     &:active {
         transition: color .3s;
