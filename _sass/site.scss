@@ -234,9 +234,15 @@ header .entry-meta {
             text-align: left;
     }
 }
-.footer-text {
+.footer {
+    @include font-rem(12);
+	text-transform: uppercase;
+	color: lighten($color_tuatara,60);
     text-align: center;
     padding-bottom: 15px;
+    a {
+        color: lighten($color_tuatara,60);
+    }
 }
 //
 .tagi {
