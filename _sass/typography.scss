@@ -188,37 +188,33 @@ dt {
         color: white;
     }
     @media #{$small} {
-        color: $color_gray;
+        color: #383838;
         &:link {
-            color: $color_gray;
+            color: #383838;
         }
         &:visited {
-            color: $color_gray;
+            color: #383838;
         }
         &:hover {
-            animation-name: LinksFooterAnimation;
+            animation-name: LinksTelegramAnimation;
             animation-duration: 1s;
             text-decoration: underline;
         }
         &:active {
             transition: color .3s;
-            color: $color_gray;
+            color: #383838;
         }
     }
-}
-.footer-a:hover {
-    animation-name: LinksTelegramAnimation;
-    animation-duration: 1s;
 }
 @keyframes LinksTelegramAnimation
 {
     from {
-        color: lighten($color_tuatara,60);
-    }
-    50%{
         color: white;
     }
-    to {
+    50%{
         color: lighten($color_tuatara,60);
+    }
+    to {
+        color: white;
     }
 }
