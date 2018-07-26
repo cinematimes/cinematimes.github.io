@@ -314,8 +314,8 @@ header .entry-meta {
 	display: block;
     margin-top: 1rem;
     width: 30%;
-    float: right;
-    text-align: right;
+    float: left;
+    //text-align: right;
 }
 .feature {
     @include transition(.5s);
