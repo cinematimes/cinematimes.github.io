@@ -3,7 +3,7 @@ layout: post
 title: "«Визит оркестра»"
 date: 2017-09-01
 excerpt: "Израильская фестивальная комедийная драма, рассказывающая об египетском оркестре, заблудившимся где-то в Израиле."
-tags: [драма, фестивальное, Россия]
+tags: [драма, фестивальное, Израиль]
 feature: https://cinematimes.cf/assets/img/screenshots/vizit_orkestra/3.png
 comments: false
 ---
