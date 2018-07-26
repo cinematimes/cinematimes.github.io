@@ -5,6 +5,7 @@ date: 2018-07-21
 excerpt: "Классическая чёрно-белая судебная детективная драма. Режиссёр — Билли Уайлдер, снявший «В джазе только девушки» и много других известных фильмов."
 tags: [классика, детектив, США]
 feature: https://cinematimes.cf/assets/img/screenshots/Witness-for-the-Prosecution-2.jpg
+telegram: https://t.me/Anonhownow/517
 comments: false
 ---
 Давненько не было на канале обзоров классического кино.
