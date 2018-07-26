@@ -166,3 +166,58 @@ table {
 dt {
     font-weight: bolder;
 }
+
+.telegram-a {
+    color: lighten($color_tuatara,60);
+    transition: none;
+    text-decoration: none;
+    &:link {
+        color: lighten($color_tuatara,60);
+    }
+    &:visited {
+        color: lighten($color_tuatara,60);
+    }
+    &:hover {
+        animation-name: LinksFooterAnimation;
+        animation-duration: 1s;
+        text-decoration: underline;
+    }
+    &:active {
+        transition: color .3s;
+        color: lighten($color_tuatara,60);
+    }
+    @media #{$small} {
+        color: $color_gray;
+        &:link {
+            color: $color_gray;
+        }
+        &:visited {
+            color: $color_gray;
+        }
+        &:hover {
+            animation-name: LinksFooterAnimation;
+            animation-duration: 1s;
+            text-decoration: underline;
+        }
+        &:active {
+            transition: color .3s;
+            color: $color_gray;
+        }
+    }
+}
+.footer-a:hover {
+    animation-name: LinksTelegramAnimation;
+    animation-duration: 1s;
+}
+@keyframes LinksTelegramAnimation
+{
+    from {
+        color: lighten($color_tuatara,60);
+    }
+    50%{
+        color: white;
+    }
+    to {
+        color: lighten($color_tuatara,60);
+    }
+}
