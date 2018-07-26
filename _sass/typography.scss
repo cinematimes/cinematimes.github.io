@@ -168,14 +168,15 @@ dt {
 }
 
 .telegram-a {
-    color: lighten($color_tuatara,60);
+    color: white;
     transition: none;
     text-decoration: none;
+    font-weight: 300;
     &:link {
-        color: lighten($color_tuatara,60);
+        color: white;
     }
     &:visited {
-        color: lighten($color_tuatara,60);
+        color: white;
     }
     &:hover {
         animation-name: LinksFooterAnimation;
@@ -184,7 +185,7 @@ dt {
     }
     &:active {
         transition: color .3s;
-        color: lighten($color_tuatara,60);
+        color: white;
     }
     @media #{$small} {
         color: $color_gray;
