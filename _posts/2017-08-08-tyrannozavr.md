@@ -3,8 +3,8 @@ layout: post
 title: "Тираннозавр"
 date: 2017-08-08
 excerpt: "Тираннозавр — это мрачная британская драма 2011 года, повествующая о непростой жизни и душевных страданиях стареющего безработного."
-tags: [драма, фестивальное, Санденс, Британия]
-feature: https://cinematimes.cf/assets/img/screenshots/tyrannozavr/1.png
+tags: [драма, фестивальное, Санденс, BAFTA, Британия]
+feature: https://cinematimes.cf/assets/img/screenshots/tyrannozavr/1.jpg
 telegram: https://t.me/Anonhownow/212
 comments: false
 ---
