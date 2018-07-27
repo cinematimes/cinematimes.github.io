@@ -29,7 +29,7 @@ comments: false
 В России Telegram активно используют около 13 миллионов человек (по данным на январь 2018 года), в Москве Telegram установлен у ~30% жителей. Цифры постоянно растут, ведь мессенджер намного моложе своих основных конкурентов (к примеру, в 2017 году активных пользователей было в 5 раз меньше), и на данный момент Telegram является третьим по популярности мессенджером в России (обгоняя Skype и Facebook Messenger) и уже подбирается ко второму месту.
 
 ## Пожертвования
-<iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9D%D0%B0%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%20Well%2C%20Cin%C3%A9ma%20Times&targets-hint=&default-sum=25&button-text=14&comment=on&hint=&successURL=&quickpay=shop&account=41001768053538" width="100%" height="307" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+<iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9D%D0%B0%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%20Well%2C%20Cin%C3%A9ma%20Times&targets-hint=&default-sum=25&button-text=14&comment=on&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=41001768053538" width="100%" height="307" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
 ## Авторские права
 Все тексты, размещённые на канале (и на этом сайте) принадлежат их авторам. При копировании ссылка на материал обязательна.
