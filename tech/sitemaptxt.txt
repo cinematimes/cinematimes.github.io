@@ -10,5 +10,4 @@ sitemap:
     {% unless page.sitemap.exclude == "yes" %}
       {{ site.url }}{{ page.url | remove: "index.html" }}
     {% endunless %}
-  {% endfor %}
-</urlset>
+{% endfor %}
